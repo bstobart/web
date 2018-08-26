@@ -1,0 +1,309 @@
+
+header{
+    
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    color: #212121;
+    font-family: 'Quicksand', 'sans-serif';
+    font-weight: 300;
+    height:13%;
+    font-size: 15px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+p{
+  font-family: 'Quicksand', 'sans-serif';
+    font-weight: 300;  
+    
+    
+    
+}
+h2 {
+font-weight: 400;
+font-family: 'Quicksand', 'sans-serif';
+display: flex;
+}
+
+h3 {
+font-weight: 400;
+font-family: 'Quicksand', 'sans-serif';
+display: flex;
+}
+
+
+
+#menu-container{
+     display: flex;
+    justify-content: flex-end;
+    text-decoration:none;
+    text-align: right;
+    float: right;
+    margin-right: 25px;
+    
+}
+nav a{
+    margin-right: 28px;
+    
+}
+
+nav a:hover{
+    border-bottom: 1px solid currentcolor;
+}
+
+nav{
+    margin-right: 10px;
+}
+.nav-main{
+    color: #212121;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.logo{
+    margin-left: 30px;
+    width: 110px;
+}
+
+.login{
+    background-color: #844E9C;
+    border-radius: 25px;
+    padding: 2px 15px 2px 15px;
+    margin-right: 20px;
+    color: #FFF !important;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    width: 100%;
+}
+
+
+#mountains{
+    position: relative;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+    
+}
+
+.home-buttons{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    font-family: 'Quicksand', sans-serif;
+    color: #FFF;
+    top: 70%;
+}
+.home-buttons-standard{
+margin: 10px;
+padding: 5px 50px 5px 50px;  
+    
+}
+
+.home-buttons-pink{
+    margin: 10px;
+    padding: 5px 45px 5px 45px;
+    border-radius: 25px;
+    background-color: #844E9C;
+    color: #FFF;
+    font-weight: 300;
+}
+
+#down{
+display: flex;
+flex-direction: column;
+justify-content: center;
+position: absolute;
+align-self: flex-end;
+bottom: 20px;
+}
+
+.title{
+    position: absolute;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #FFF;
+    font-size: 30px;
+    letter-spacing: 4px;
+    top: 24%;
+    
+}
+.subtitle{
+    position: absolute;
+    top: 45%;
+    line-height: 1.25;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1.6px;
+    
+}
+
+.office{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.about-us{
+    display: flex;
+    font-family: 'Quicksand' , sans-serif;
+    font-size: 15px;
+    
+}
+.sub-body{
+    width: 40%;
+    justify-content: center;
+    padding: 30px 20px 0px 60px;
+}
+.about-paragraph{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    color: #212121;
+    font-weight: 400;
+}
+
+#news-container{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    position: relative;
+    
+    
+}
+#news{
+    width: 68%;
+    position: relative;
+    height: 500px;
+    align-items: center;
+}
+
+.newstitle{
+    position: relative;
+    top: 50px;
+}
+    
+
+#thumbs-container{
+    top: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+.thumb-spans{
+    width: 260px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    border-radius: 15px 15px 0px 0px;
+    box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, 0.2);
+
+    
+}
+
+.thumbs{
+    width: 260px;
+    border-radius: 15px 15px 0px 0px;
+}
+.thumbtext-container{
+    display: block;
+    margin: 8px;
+    
+}
+
+.playbutton{
+    position: relative;
+    align-self: center;
+    width: 40px;
+    top: -18px;
+    margin-left: 20px;
+    
+    
+}
+
+.thumbtitle{
+    margin: 5px 0px 5px 1px;
+    
+}
+.thumbtext{
+ margin: 0px 0px 5px 1px;
+max-width: 170px;
+float: left;
+vertical-align: middle;
+font-size: 13px;
+
+}
+
+.thumbtext p{
+    font-size: 5px;
+    
+}
+
+#quote{
+    height: 500px;
+    background-color: #F7FCF7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quotetext{
+    width: 35%;
+    font-size: 25px;
+    text-align: center;
+    padding: 0px 50px 35px 50px;
+    border-bottom: 1px solid #212121;
+}
+
+.quotationmark{
+    position: relative;
+    top: -70px;
+    
+}
+
+.warren{
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+}
+
+.dots{
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-end;
+    margin-bottom: 70px;
+    
+}
+
+#video{
+    height: 600px;
+    background-color: #FFFFFF;
+    
+    
+}

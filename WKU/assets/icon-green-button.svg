@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Green CTA 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="News-Article" transform="translate(-246.000000, -256.000000)">
+            <g id="Bottom">
+                <g transform="translate(1.000000, 221.000000)">
+                    <g id="Green-CTA-3" transform="translate(245.000000, 35.000000)">
+                        <g id="CTA">
+                            <circle id="Oval" fill="#BCCDBC" cx="25" cy="25" r="25"></circle>
+                            <g id="White-Chevron" transform="translate(20.000000, 16.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                                <g id="Group">
+                                    <path d="M0.785714286,10 C7.07142857,16.1538462 10.2142857,19.2307692 10.2142857,19.2307692" id="Line" stroke-width="1.5" transform="translate(5.500000, 14.615385) scale(1, -1) translate(-5.500000, -14.615385) "></path>
+                                    <path d="M0.785714286,0.769230769 C7.07142857,6.92307692 10.2142857,10 10.2142857,10" id="Line" stroke-width="1.5"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
